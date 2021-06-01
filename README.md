@@ -3,7 +3,7 @@
 <h3 align="left">A passionate frontend developer from Brazil</h3>
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
-<img align="right" height="200" src="https://media.giphy.com/media/UTRXtonjpNJraR8BhR/giphy.gif"/>
+<img align="right" height="100" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ ...; <!--breve descrição de atividade atual-->

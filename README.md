@@ -1,13 +1,13 @@
 ### Olá! 👋
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
-<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/UTRXtonjpNJraR8BhR/giphy.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ ...;
 - 💻 ...;  
 - 📘 Estudando: .Net Core, ASP.Net, Flutter    
-- 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
+- 💬 Sobre mim: ...;  
 - 📫 william.silva@aluno.unifametro.edu.br   
 
 <code><a href="https://dotnet.microsoft.com/download" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></a></code>
@@ -23,7 +23,7 @@
 ---
 
 
-### Demonstração de Conhecimentos
+### Demonstração de Conhecimentos...;
 
 <!-- - [Frontend em ReactJS: Upload de Imagens](https://github.com/raissaqueiroz/upload-images-webapp) 
 - [Backend em NodeJS: API Restfull Upload de Imagens](https://github.com/raissaqueiroz/upload-images-api)

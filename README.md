@@ -23,7 +23,14 @@
 ---
 
 
-### Demonstração de Conhecimentos...;
+### my Stats...;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-io&show_icons=true)
+
+
+
 
 <!-- - [Frontend em ReactJS: Upload de Imagens](https://github.com/raissaqueiroz/upload-images-webapp) 
 - [Backend em NodeJS: API Restfull Upload de Imagens](https://github.com/raissaqueiroz/upload-images-api)

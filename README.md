@@ -1,6 +1,6 @@
 ###
 <h1 align="left">Hi 👋, I'm William</h1>
-<h3 align="left">A passionate frontend developer from Brazil</h3>
+<h3 align="left">A passionate Full-Stack developer from Brazil</h3>
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
 <img align="right" height="100" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>

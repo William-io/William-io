@@ -8,7 +8,7 @@
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ ...; <!--breve descrição de atividade atual-->
 - 💻 ...;  <!--tecnologia atual-->
-- 📘 I’m currently learning **.Net Core, C#, Asp.Net, Flutter**    
+- 📘 I’m currently learning **.Net Core, C#, Asp.Net, Flutter, Angular**    
 - 💬 Ask me about **....** 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  
 

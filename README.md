@@ -6,10 +6,13 @@
 <img align="right" height="100" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ ...; <!--breve descrição de atividade atual-->
+- ⚡ ...; <!--Trabalho atual-->
 - 💻 ...;  <!--tecnologia atual-->
-- 📘 I’m currently learning **.Net Core, C#, Asp.Net, Flutter, Angular**    
-- 💬 Ask me about **....** 
+- 📘 I’m currently learning **C#, .Net Core, , Asp.Net, Angular**    
+- 💬 Personal Skills: 
+- - Analítico, proativo e responsável.
+- Foco em solucionar problemas e aprendizado contínuo.
+- Em busca de adquirir experiência na área de TI. 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  
 
 <h4 align="left">Languages and Tools:</h4>

@@ -11,8 +11,7 @@
 - 📘 I’m currently learning **C#, .Net Core, , Asp.Net, Angular**    
 - 💬 Personal Skills: 
 - - Analítico, proativo e responsável.
-- - Foco em solucionar problemas e aprendizado contínuo.
-- - Em busca de adquirir experiência na área de TI. 
+- - Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  
 
 <h4 align="left">Languages and Tools:</h4>

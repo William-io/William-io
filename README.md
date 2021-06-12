@@ -1,9 +1,9 @@
 ###
 <h1 align="left">Hi 👋, I'm William</h1>
-<h3 align="left">Um apaixonado desenvolvedor full-stack do Brasil</h3>
+<h3 align="left">FullStack Developer</h3>
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
-<img align="right" height="100" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
+<img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ ...; <!--Trabalho atual-->

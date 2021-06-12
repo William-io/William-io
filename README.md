@@ -1,6 +1,6 @@
 ###
 <h1 align="left">Hi 👋, I'm William</h1>
-<h3 align="left">A passionate Full-Stack developer from Brazil</h3>
+<h3 align="left">Um apaixonado desenvolvedor full-stack do Brasil</h3>
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
 <img align="right" height="100" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
@@ -11,8 +11,8 @@
 - 📘 I’m currently learning **C#, .Net Core, , Asp.Net, Angular**    
 - 💬 Personal Skills: 
 - - Analítico, proativo e responsável.
-- Foco em solucionar problemas e aprendizado contínuo.
-- Em busca de adquirir experiência na área de TI. 
+- - Foco em solucionar problemas e aprendizado contínuo.
+- - Em busca de adquirir experiência na área de TI. 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  
 
 <h4 align="left">Languages and Tools:</h4>

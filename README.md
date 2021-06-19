@@ -6,7 +6,7 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Current Project: <a href="https://github.com/William-io/health-plan"><b>Health-Plan</b></a> ...; <!--Trabalho atual-->
+- ⚡ Current Project: <a href="https://github.com/William-io/health-plan" target="_blank"><b>Health-Plan</b></a> ...; <!--Trabalho atual-->
 - 💻 **C#, .Net Core, , Asp.Net, Angular** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **Angular, UIKit**    
 - 💬 Personal Skills: 

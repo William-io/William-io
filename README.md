@@ -6,9 +6,9 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ ...; <!--Trabalho atual-->
-- 💻 ...;  <!--tecnologia atual-->
-- 📘 I’m currently learning **C#, .Net Core, , Asp.Net, Angular**    
+- ⚡ Current Project: <a href="https://github.com/William-io/health-plan"><b>Health-Plan</b></a> ...; <!--Trabalho atual-->
+- 💻 **C#, .Net Core, , Asp.Net, Angular** ...;  <!--tecnologia atual-->
+- 📘 I’m currently learning **Angular, UIKit**    
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  

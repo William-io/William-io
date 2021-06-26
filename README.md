@@ -7,7 +7,7 @@
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ Current Project: <a href="https://github.com/William-io/health-plan" target="_blank"><b>Health-Plan</b></a> ...; <!--Trabalho atual-->
-- 💻 **C#, .Net Core, Asp.Net, Angular, SQL Server, RavenDB** ...;  <!--tecnologia atual-->
+- 💻 **C#, .Net Core, Asp.Net, Angular, SQL Server, RavenDB, Docker, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **RavenDB/C#, Angular, UIKit, React, TypeScript, Context/Forms,**    
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 

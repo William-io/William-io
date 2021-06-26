@@ -6,7 +6,7 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Current Project: <a href="https://github.com/William-io/health-plan" target="_blank"><b>Health-Plan</b></a> ...; <!--Trabalho atual-->
+- ⚡ Current Project: <a href="https://github.com/William-io/health-plan" target="_blank"><b>Health-Plan</b></a> , <a href="https://github.com/William-io/Store-CRUD" target="_blank"><b>Store-CRUD</b></a> ...; <!--Trabalho atual-->
 - 💻 **C#, .Net Core, Asp.Net, Angular, SQL Server, RavenDB, Docker, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **RavenDB/C#, Angular, UIKit, React, TypeScript, Context/Forms,**    
 - 💬 Personal Skills: 

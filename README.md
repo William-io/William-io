@@ -7,7 +7,7 @@
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ Current Project: <a href="https://github.com/William-io/bookings-api" target="_blank"><b>Bookings-api</b></a> ...; <!--Trabalho atual-->
-- 💻 **C#, .Net Core, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
+- 💻 **C# 9.0, .Net 5/6, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **RavenDB/C#, Angular, EF Core <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 

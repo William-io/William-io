@@ -6,7 +6,7 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Current Project: <a href="https://github.com/William-io/bookings-api" target="_blank" target="_blank"><b>Bookings-api</b></a>, <a href="https://github.com/William-io/payment-API" target="_blank"><b>payment-API</b></a> ...; <!--Trabalho atual-->
+- ⚡ Current Project: [go](http://stackoverflow.com){:target="_blank" rel="noopener"} <a href="https://github.com/William-io/bookings-api" target="_blank" target="_blank"><b>Bookings-api</b></a>, <a href="https://github.com/William-io/payment-API" target="_blank"><b>payment-API</b></a> ...; <!--Trabalho atual-->
 - 💻 **C# 9.0, .Net 5/6, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **RavenDB/C#, Angular, EF Core <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 

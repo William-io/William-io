@@ -6,7 +6,7 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Current Project: <a href="https://github.com/William-io/bookings-api" target="_blank" target="_blank"><b>Bookings-api</b></a>, <a href="https://github.com/William-io/payment-API" target="_blank"><b>Payment-API</b></a> ...; <!--Trabalho atual-->
+- ⚡ Current Project: <a href="https://github.com/William-io/bookings-api" target="_blank" target="_blank"><b>Bookings-api</b></a>, <a href="https://github.com/William-io/Payment" target="_blank"><b>Payment-API</b></a> ...; <!--Trabalho atual-->
 - 💻 **C# 9.0, .Net 5/6, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **RavenDB/C#, Angular, EF Core <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 
@@ -30,16 +30,4 @@
 
 
 
-
-<!-- - [Frontend em ReactJS: Upload de Imagens](https://github.com/raissaqueiroz/upload-images-webapp) 
-- [Backend em NodeJS: API Restfull Upload de Imagens](https://github.com/raissaqueiroz/upload-images-api)
-- [Frontend em ReactJS: Crud Básico de Clientes](https://github.com/raissaqueiroz/helpper-webapp) 
-- [Backend em NodeJS: API Restfull Crud Básico de Clientes](https://github.com/raissaqueiroz/helpper-api)
-- [Landing Page de Venda de Curso em Wordpress](https://github.com/raissaqueiroz/AirFLY)
-- [Primeiro Site Desenvolvido na Vida (Responsivo sem Framework): HTML5+CSS3+JavaScript](https://github.com/raissaqueiroz/portfolio-fotografo)
-- [Primeiro CRUD em PHP Procedural + Boostrap + MYSQLi + Boostrap](https://github.com/raissaqueiroz/sistemacrud)
-- [Sistema de Agendamento de Salão de Beleza em PHP Procedural + Bootstrap](https://github.com/raissaqueiroz/semprebela)
-- [Importador de Planilhas em CSV feito em PHP](https://github.com/raissaqueiroz/csv-import)
-- [Backend NodeJS: API REST Cadastro e Aluguel de Casas](https://github.com/raissaqueiroz/devhouse-api)
-- [Backend NodeJS: API REST Gerenciar Tarefas](https://github.com/raissaqueiroz/tasklist-api) -->
 

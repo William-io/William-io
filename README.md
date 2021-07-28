@@ -13,7 +13,7 @@
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 How to reach me **william.silva@aluno.unifametro.edu.br**  
 
-<a href="https://www.linkedin.com/in/william-io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--<a href="https://www.linkedin.com/in/william-io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](url)-->
 
 
 

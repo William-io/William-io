@@ -6,7 +6,7 @@
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Current Project: <a href="https://github.com/William-io/repairs-manage" target="_blank" target="_blank"><b>repairs-manage</b></a>, <a href="https://github.com/William-io/consult-medical" target="_blank" target="_blank"><b>consult-medical</b></a>, <a href="https://github.com/William-io/store-orders" target="_blank"><b>store-orders</b></a> ,<a href="https://github.com/William-io/Payment" target="_blank"><b>Payment-API</b></a>,  ...; <!--Trabalho atual-->
+- ⚡ Current Project: <a href="https://github.com/William-io/repairs-manage" target="_blank"><b>repairs-manager</b></a>, <a href="https://github.com/William-io/consult-medical" target="_blank" target="_blank"><b>consult-medical</b></a>, <a href="https://github.com/William-io/store-orders" target="_blank"><b>store-orders</b></a> ,<a href="https://github.com/William-io/Payment" target="_blank"><b>Payment-API</b></a>,  ...; <!--Trabalho atual-->
 - 💻 **C# 10.0, .Net 5/6, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 I’m currently learning **API.NET6, Angular, EF Core, AWS Lambda, Dart/Shelf <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 

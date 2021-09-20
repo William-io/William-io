@@ -1,6 +1,6 @@
 ###
 <h1 align="left">Hi 👋, I'm William G.Silva</h1>
-<h3 align="left">FullStack Developer</h3>
+<!-- <h3 align="left">FullStack Developer</h3> -->
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
 <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>

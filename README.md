@@ -11,7 +11,7 @@
 - 📘 I’m currently learning **API.NET6, Angular, EF Core, AWS Lambda, Dart/Shelf <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
-- 📫 How to reach me **capuletos@live.com**  
+- 📫 How to reach me **williamgsilva@live.com**  
 
 <!--<a href="https://www.linkedin.com/in/william-io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](url)-->
 

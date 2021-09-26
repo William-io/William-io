@@ -13,6 +13,14 @@
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 Como me alcançar **williamgsilva@live.com**  
 
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/william-io/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/William__io"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:williamgsilva@live.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>&nbsp;
+<a href="https://t.me/William_io/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+</p>
+
 <!--<a href="https://www.linkedin.com/in/william-io/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](url)-->
 
 

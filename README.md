@@ -3,7 +3,7 @@
 <!-- <h3 align="left">FullStack Developer</h3> -->
 <!--👨🏻‍💻 FullStack Developer 👨🏻‍💻-->  
 
-<img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/>
+<!-- <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/> -->
 
 - 🚀 Esperto p/ novos desafios.   
 - ⚡ Projeto atual: <a href="https://github.com/William-io/repairs-manage" target="_blank"><b>repairs-manager</b></a>, <a href="https://github.com/William-io/store-orders" target="_blank"><b>store-orders</b></a> ,<a href="https://github.com/William-io/Payment" target="_blank"><b>Payment-API</b></a>,  ...; <!--Trabalho atual-->

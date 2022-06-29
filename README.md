@@ -6,9 +6,9 @@
 <!-- <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/> -->
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Projeto atual: <a href="https://github.com/William-io/repairs-manage" target="_blank"><b>repairs-manager</b></a>, <a href="https://github.com/William-io/store-orders" target="_blank"><b>store-orders</b></a> ,<a href="https://github.com/William-io/Payment" target="_blank"><b>Payment-API</b></a>,  ...; <!--Trabalho atual-->
-- 💻 **C# 10.0, .Net 5/6, Asp.Net, Angular, SQL Server, MySql, RavenDB, DBeaver, Docker, MongoDB, Redis, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
-- 📘 Em aprendizado: **API.NET6, Angular, EF Core, AWS Lambda, Dart/Shelf, Microservice <!--UIKit, React, TypeScript, Context/Forms,-->**    
+- ⚡ Projeto atual: <a href="https://github.com/William-io/Medication-Manager" target="_blank"><b>Medication-Manager</b></a>,   ...; <!--Trabalho atual-->
+- 💻 **C# 10.0, .Net 5/6, Asp.Net, Angular, SQL Server, Docker, MongoDB, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
+- 📘 Em aprendizado: **API.NET6, NodeJs, Angular, EF Core, Microservice <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 Como me alcançar **williamgsilva@live.com**  

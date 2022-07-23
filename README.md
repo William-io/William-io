@@ -6,7 +6,7 @@
 <!-- <img align="right" height="80" src="https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif"/> -->
 
 - 🚀 Esperto p/ novos desafios.   
-- ⚡ Projeto atual: <a href="https://github.com/William-io/Medication-Manager" target="_blank"><b>Medication-Manager</b></a>,   ...; <!--Trabalho atual-->
+- ⚡ Projeto atual: <a href="https://github.com/William-io/Medication-Manager" target="_blank"><b></b></a>,   ...; <!--Trabalho atual-->
 - 💻 **C# 10.0, .Net 5/6, Asp.Net, Angular, SQL Server, Docker, MongoDB, Postman, Git, Windows Terminal** ...;  <!--tecnologia atual-->
 - 📘 Em aprendizado: **API.NET6, NodeJs, Angular, EF Core, Microservice <!--UIKit, React, TypeScript, Context/Forms,-->**    
 - 💬 Personal Skills: 

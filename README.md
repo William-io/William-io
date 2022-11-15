@@ -12,7 +12,7 @@
 - 💬 Personal Skills: 
 - - Analítico, proativo. Foco em solucionar problemas e aprendizado contínuo. 
 - 📫 Como me alcançar **williamgsilva@live.com**  
-- Estou me aventurando na [Medium Page](https://medium.com/@william-io). 
+
 
 
 <p align='center'>
